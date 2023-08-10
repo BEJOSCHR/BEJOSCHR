@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @BEJOSCH
+- 👋 Hey, my name is Benni often known as @BEJOSCH
 - 👀 I’m interested in Volleyball, Reading and obviously Programming
-- 🌱 I’m currently studing in Wuppertal
+- 🌱 I’m currently studing in Wuppertal, Germany
 - 📫 How to reach me: benni@schranni.de
 
 <!---
